@@ -1,0 +1,28 @@
+
+body {
+  background-color: white;
+  padding: 20px;
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+  background-color: black;
+  color: antiquewhite;
+  padding: 5px;
+
+}
+
+header a{
+ margin: 10px;
+  color: antiquewhite;
+  text-decoration: none;
+  font-size: large;
+  padding: 8px;
+}
+
+header .active {
+  background-color: antiquewhite;
+  color: black;
+  padding: 6px
+}
